@@ -9,6 +9,8 @@ import java.awt.geom.AffineTransform
 import java.awt.image.AffineTransformOp
 import java.awt.image.DataBufferByte
 
+// QuPath version 0.2.3
+
 selectAnnotations();
 
 def imageData = getCurrentImageData()
